@@ -1,0 +1,2 @@
+# FORECASTING-ANNUAL-RAINFALL-PATTERNS-USING-ARIMA-ALGORITHM-WITH-DATA-ANALYTICS
+Produced precise rainfall forecasts using the ARIMA model.
